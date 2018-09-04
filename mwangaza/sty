@@ -1,0 +1,4 @@
+#navli{display:inline-block;
+		list-style:none;
+		font:bold 20px  tahoma;
+		padding:20px;}
